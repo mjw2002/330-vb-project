@@ -1,0 +1,11 @@
+C:\Users\wade_michael\Desktop\TestFiles\2018\VB_330\VB_330\bin\Debug\VB_330.exe.config
+C:\Users\wade_michael\Desktop\TestFiles\2018\VB_330\VB_330\bin\Debug\VB_330.exe
+C:\Users\wade_michael\Desktop\TestFiles\2018\VB_330\VB_330\bin\Debug\VB_330.pdb
+C:\Users\wade_michael\Desktop\TestFiles\2018\VB_330\VB_330\obj\Debug\VB_330.csprojAssemblyReference.cache
+C:\Users\wade_michael\Desktop\TestFiles\2018\VB_330\VB_330\obj\Debug\VB_330.Form1.resources
+C:\Users\wade_michael\Desktop\TestFiles\2018\VB_330\VB_330\obj\Debug\VB_330.Properties.Resources.resources
+C:\Users\wade_michael\Desktop\TestFiles\2018\VB_330\VB_330\obj\Debug\VB_330.csproj.GenerateResource.cache
+C:\Users\wade_michael\Desktop\TestFiles\2018\VB_330\VB_330\obj\Debug\VB_330.exe
+C:\Users\wade_michael\Desktop\TestFiles\2018\VB_330\VB_330\obj\Debug\VB_330.pdb
+C:\Users\wade_michael\Desktop\TestFiles\2018\VB_330\VB_330\bin\Debug\VB_330.exe.CodeAnalysisLog.xml
+C:\Users\wade_michael\Desktop\TestFiles\2018\VB_330\VB_330\bin\Debug\VB_330.exe.lastcodeanalysissucceeded
